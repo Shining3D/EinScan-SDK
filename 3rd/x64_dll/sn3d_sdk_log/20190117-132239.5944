@@ -1,0 +1,6 @@
+Log file created at: 2019/01/17 13:22:39
+Running on machine: JMPC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0117 13:22:39.984244  6020 sn3DHandiSyncControl.cpp:43] ********----Enter Connect Device----*******
+I0117 13:22:43.213610  6020 IShotSync.cpp:170] Success Open Cameras
+I0117 13:22:50.254818 11356 IShotSync.cpp:1098] End Soft Dog Thread

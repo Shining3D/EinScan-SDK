@@ -1,0 +1,4 @@
+Log file created at: 2019/01/17 09:44:53
+Running on machine: JMPC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0117 09:44:53.339329 34432 sn3DHandiSyncControl.cpp:43] ********----Enter Connect Device----*******
